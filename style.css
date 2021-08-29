@@ -1,0 +1,29 @@
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+ul {
+    margin: 0 auto;
+}
+ul li {
+    list-style: none;
+    display: flex;
+
+}
+ul li h2{
+    font-size: 22px;
+    width: 30%;
+}
+ul li .button {
+    width: 5%;
+}
+.course-name {
+    width: 15%;
+}
+.course-description {
+    width: 80%;
+}
+.course-name h4,.course-description h4 {
+    text-align: center;
+    font-size: 25px;
+}

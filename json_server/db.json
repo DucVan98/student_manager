@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "name": "html cho người mới bắt đầu",
+      "description": "học lập trình html cơ bản cho người mới bắt đầu học lập trình html cơ bản cho người mới bắt đầu học lập trình html cơ bản cho người mới bắt đầu học lập trình html cơ bản cho người mới bắt đầu học lập trình html cơ bản cho người mới bắt đầu học lập trình html cơ bản cho người mới bắt đầu",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "css cho người mới bắt đầu",
+      "description": "lập trình css cơ bản cho người mới bắt đầu"
+    }
+  ],
+  "student": [
+    {
+      "studenName": "Nguyễn Văn A",
+      "studenAge": 18,
+      "studentAddress": "Hà Nội",
+      "id": 1
+    },
+    {
+      "studenName": "Nguyễn Văn C",
+      "studenAge": 18,
+      "studentAddress": "Tuyên Quang",
+      "id": 2
+    },
+    {
+      "studenName": "Nguyễn Văn B",
+      "studenAge": 18,
+      "studentAddress": "Thanh Hóa",
+      "id": 3
+    },
+    {
+      "studenName": "Nguyễn Văn D",
+      "studenAge": 18,
+      "studentAddress": "Hà Giang",
+      "id": 4
+    }
+  ]
+}
